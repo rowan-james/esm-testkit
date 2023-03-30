@@ -1,0 +1,9 @@
+{
+  "name": "esm-testkit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "keywords": [],
+  "author": "mochancrimthann <grumpy.coffee.bean@gmail.com>",
+  "license": "ISC"
+}
